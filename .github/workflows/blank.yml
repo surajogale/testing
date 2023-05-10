@@ -3,7 +3,7 @@
 on:
   push:
     branches:
-    - temp
+    - test
 
 jobs:
   pull-request:
